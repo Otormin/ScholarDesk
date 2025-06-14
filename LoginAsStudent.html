@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scholar Desk - Login as Student</title>
+    <link rel="stylesheet" href="CSS/SignpUp.css">
+
+</head>
+<body>
+    <div class="Container"> 
+        <h2> Welcome to Scholar Desk </h2>
+        
+        <form id="SignUp-form" method="post" action="StudentLoginAccount.php">
+            <input type="text" id="matricNumber" name="mNumber" placeholder="Matriculation Number" required> <br>
+
+            <div class="password-container">
+                <input type="password" name="password" id="password" placeholder="Password" required>
+                <img src="Images/hide.png" alt="Toggle Password" class="eye-icon" onclick="togglePassword()">
+            </div>
+            <p class="terms"> Don't have an account? <a href="SignUpAs.html"> Sign Up </a></p>
+            <button type="submit"> Log In </button>
+        </form>
+
+    <script src="JS/function.js"></script>
+</body>
+</html>
