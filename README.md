@@ -8,12 +8,12 @@
 ScholarDesk is a web application built to simplify the often complex and confusing experience of traditional university portals. While many institutional systems are bloated with administrative features like hostel selection and fee payments, ScholarDesk strips away the noise to focus on what matters most in the classroom: **Course Management, Grading, and Attendance.**
 
 ## 📸 Screenshots
-![Login page](screenshots/gpaCalculator1.png)
-![Homepage](screenshots/gpaCalculator2.png)
-![Courses page](screenshots/gpaCalculator3.png)
-![Student Profile Page](screenshots/gpaCalculator3.png)
-![List of students enrolled under a course](screenshots/gpaCalculator3.png)
-![Student details page](screenshots/gpaCalculator3.png)
+![Login page](screenshots/scholardesk1.png)
+![Homepage](screenshots/scholardesk2.png)
+![Courses page](screenshots/scholardesk3.png)
+![Student Profile Page](screenshots/scholardesk4.png)
+![List of students enrolled under a course](screenshots/scholardesk5.png)
+![Student details page](screenshots/scholardesk6.png)
 
 ## 📖 The Problem & Solution
 
